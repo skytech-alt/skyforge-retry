@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-retry"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Повторные попытки с экспоненциальной задержкой (backoff) для SkyForge."
+    репозиторий = "github.com/skytech-alt/skyforge-retry"
+    точка_входа = "code/main.skf"
+    теги = ["retry", "backoff", "resilience"]
+    лицензия = "MIT"
+    зависимости = []
+}
